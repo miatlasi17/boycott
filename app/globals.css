@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Dripping blood animation */
+/* .dripping-blood-loader {
+  position: relative;
+  width: 60px;
+  height: 100px;
+  margin: 30px auto;
+}
+
+.blood-drop {
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  width: 12px;
+  height: 25px;
+  background: red;
+  border-radius: 50% 50% 60% 60%;
+  animation: drip 1.5s infinite ease-in-out;
+  transform: translateX(-50%);
+}
+
+@keyframes drip {
+  0% {
+    top: -30px;
+    opacity: 1;
+    transform: translateX(-50%) scale(1);
+  }
+  50% {
+    top: 40px;
+    opacity: 0.7;
+    transform: translateX(-50%) scale(1.2, 1.5);
+  }
+  100% {
+    top: 90px;
+    opacity: 0;
+    transform: translateX(-50%) scale(0.8, 0.5);
+  }
+}
+ */
+
+
+ .blood-drip-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 30px;
+  height: 100px;
+  margin: 40px auto;
+  position: relative;
+}
+
+.blood-drop {
+  position: relative;
+  width: 12px;
+  height: 25px;
+  background: rgb(170, 0, 0);
+  border-radius: 50% 50% 60% 60%;
+  animation: drip 1.5s infinite ease-in-out;
+}
+
+
+@keyframes drip {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: translateY(50px) scale(1.2, 1.5);
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(90px) scale(0.8, 0.5);
+    opacity: 0;
+  }
+}

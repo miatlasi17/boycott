@@ -1,0 +1,467 @@
+id,created_at,name,reason
+1,2025-04-08 15:03:23,5 Star Chocolate,owned by Cadbury
+2,2025-04-08 15:03:23,7Days,owned by Mondalez
+3,2025-04-08 15:03:23,7Up,owned by Pepsi
+4,2025-04-08 15:03:23,Apple,have R&D centers in the country
+5,2025-04-08 15:03:23,AirBnb,enabled listings in occupied areas
+6,2025-04-08 15:03:23,AMD,collaborates with Israel in AI
+7,2025-04-08 15:03:23,Arsenal FC,partnerships and sponsorships involving Israeli companies and organizations
+8,2025-04-08 15:03:23,ALDO,has business operations in Israel
+9,2025-04-08 15:03:23,Arket,owned by H&M
+10,2025-04-08 15:03:23,Axe,owned by Unilever
+11,2025-04-08 15:03:23,Accenture,has a presence in Israel with offices in the country
+12,2025-04-08 15:03:23,Ariel,owned by Procter & Gamble P&G
+13,2025-04-08 15:03:23,Adidas,has business operations in Israel
+14,2025-04-08 15:03:23,ASDA,owned by Walmart and known to sell products sourced from Israel
+15,2025-04-08 15:03:23,Aquafina,owned by PepsiCo
+16,2025-04-08 15:03:23,Amika,manufactured on occupied Palestinian land
+17,2025-04-08 15:03:23,Activia,parent company Danone is an active Israeli food start-up investor
+18,2025-04-08 15:03:23,Adobe,operates research and development centers in Israel
+19,2025-04-08 15:03:23,Asics,invests in Israeli synthetic spidersilk startup
+20,2025-04-08 15:03:23,Amana Tool,made in Israel
+21,2025-04-08 15:03:23,Aesop,is a brand of L'Oreal
+22,2025-04-08 15:03:23,Azrieli Group,an Israeli real estate and holding company
+23,2025-04-08 15:03:23,American Eagle,supported Israel by showing the flag in the Times Square advertisement
+24,2025-04-08 15:03:23,Amazon,partnerships with Israeli tech companies
+25,2025-04-08 15:03:23,AdExtent,company based in Tel Aviv, Israel
+26,2025-04-08 15:03:23,Ahava,is an Israeli skincare company
+27,2025-04-08 15:03:23,Axel Springer,company's founder Axel Springer was known for his support of Israel
+28,2025-04-08 15:03:23,American Airlines,routes between major US cities and Tel Aviv
+29,2025-04-08 15:03:23,American Express,providing financial services and credit card facilities to Israeli consumers and businesses
+30,2025-04-08 15:03:23,Anita Gelato,company based in Isreal
+31,2025-04-08 15:03:23,AXA,has a presence in Israel through its investments and insurance services
+32,2025-04-08 15:03:23,AdeS,beverage brand owned by Coca-Cola
+33,2025-04-08 15:03:23,Aquarius,brand owned by Coca-Cola
+34,2025-04-08 15:03:23,Audi,vehicles are sold and serviced through authorized dealerships in Israel
+35,2025-04-08 15:03:23,Barq's,a root beer brand owned by Coca-Cola
+36,2025-04-08 15:03:23,BvlgariBulgari,parent company LVMH invests heavily in Israel
+37,2025-04-08 15:03:23,Bain & Company,has an office in Tel Aviv
+38,2025-04-08 15:03:23,Bank of America,invests in Israeli companies
+39,2025-04-08 15:03:23,Bayer,operates in the Israeli market through its pharmaceuticals and crop science
+40,2025-04-08 15:03:23,Bank Leumi,one of the largest banks in Israel
+41,2025-04-08 15:03:23,Bomaja,supports Israel
+42,2025-04-08 15:03:23,Burger Rings,owned by PepsiCo
+43,2025-04-08 15:03:23,BlackRock,debuted an ETF for European investors to directly access Israel's Tel Aviv 25 stock index
+44,2025-04-08 15:03:23,Brooke Bond,owned by Unilever
+45,2025-04-08 15:03:23,Barclays Bank,Funding billions in arms
+46,2025-04-08 15:03:23,Bank Hapoalim,one of the largest banks in Israel
+47,2025-04-08 15:03:23,Boston Consulting Group (BCG),providing consulting services to various Israeli businesses
+48,2025-04-08 15:03:23,Biotherm,owned by L'Oréal
+49,2025-04-08 15:03:23,Bimbo,invests in Israeli start ups
+50,2025-04-08 15:03:23,Bershka,a fashion brand under the INDITEX Group
+51,2025-04-08 15:03:23,Bloomberg,provides financial data and news services to Israeli markets
+52,2025-04-08 15:03:23,Boeing,supplies Israel with Hellfire missiles
+53,2025-04-08 15:03:23,Booz Allen Hamilton,an American management and IT consulting firm has operations in Israel
+54,2025-04-08 15:03:23,Bath & Body Works,owner Les Wexner is an Israeli ally having long term business with Jeffrey Epstein
+55,2025-04-08 15:03:23,Bristol Myers Squibb,Vanguard is the major shareholder
+56,2025-04-08 15:03:23,Booking.com,allows listings in occupied Palestinian territory
+57,2025-04-08 15:03:23,BMW,open support for Israel
+58,2025-04-08 15:03:23,Burger King,has a presence in Israel
+59,2025-04-08 15:03:23,Barclays,provides financial services and has investment activities in Israel
+60,2025-04-08 15:03:23,Capri Holdings,parent company of Michael Kors Jimmy Choo and Versace
+61,2025-04-08 15:03:23,Costa Coffee,posted social media pos for the support
+62,2025-04-08 15:03:23,Carmel Agrexco,an Israeli agricultural export company
+63,2025-04-08 15:03:23,Carita Paris,owned by Loreal Paris
+64,2025-04-08 15:03:23,Comcast,donated over $2 million of aid to the IDF
+65,2025-04-08 15:03:23,Caterpillar,Caterpillar equipment is widely used in Israel
+66,2025-04-08 15:03:23,Converse,owned by Nike
+67,2025-04-08 15:03:23,Coach,luxury fashion brand owned by Tapestry Inc
+68,2025-04-08 15:03:23,Cappy,owned by Coca-Cola
+69,2025-04-08 15:03:23,CeraVe,is owned by L'Oreal
+70,2025-04-08 15:03:23,Check Point Software Technologies,headquartered in Tel Aviv
+71,2025-04-08 15:03:23,Cerelac,owned by Nestlé
+72,2025-04-08 15:03:23,Chanel,pledged $4m donation to Israel
+73,2025-04-08 15:03:23,CyberArk,owned by Israeli founders
+74,2025-04-08 15:03:23,Chapman and Cutler,law firm represents Israel-based fintechs
+75,2025-04-08 15:03:23,Cinnabon,owned by Bimbo
+76,2025-04-08 15:03:23,Cheerios,owned by Nestlé
+77,2025-04-08 15:03:23,Cheetos,owned by PepsiCo
+78,2025-04-08 15:03:23,Cornetto,owned by Wall'sUnilever
+79,2025-04-08 15:03:23,Chips Ahoy!,owned by Mondelez
+80,2025-04-08 15:03:23,Citi Bank,investments in the Israeli tech sector
+81,2025-04-08 15:03:23,Capital One,has ties with Israel through a $500m loan deal with Elbit Systems Ltd an Israeli weapons manufacturer
+82,2025-04-08 15:03:23,Carrefour,made huge investments into Israel
+83,2025-04-08 15:03:23,Clal Insurance Enterprises,insurance company headquartered in Tel Aviv
+84,2025-04-08 15:03:23,Clean & Clear,brand of Johnson & Johnson
+85,2025-04-08 15:03:23,Clear Blue,is owned by Procter and Gamble
+86,2025-04-08 15:03:23,Clinique,founder Ronald Lauder is the president of the World Jewish Congress and chairman of the Jewish National Fund
+87,2025-04-08 15:03:23,Coca-Cola,operates a factory in the illegal Israeli settlement of Atarot
+88,2025-04-08 15:03:23,Coffee Mate,owned by Nestle
+89,2025-04-08 15:03:23,Colgate,owned by Palmolive
+90,2025-04-08 15:03:23,Crowne Plaza,connections with Israel and a cessation of weapons and defense trading
+91,2025-04-08 15:03:23,Conde Nast,CEO Stan Duncan supported openly as mentioned in NYT
+92,2025-04-08 15:03:23,Close Up Toothpaste,owned by Unilever
+93,2025-04-08 15:03:23,Celine,owned by LVMHBernard Arnault
+94,2025-04-08 15:03:23,Côte d'Or,chocolate owned by Mondelez
+95,2025-04-08 15:03:23,Crest,is a brand of Procter and Gamble
+96,2025-04-08 15:03:23,CyberArk Software,cybersecurity company headquartered in Israel
+97,2025-04-08 15:03:23,Curseforge,Overwolf the parent company of CurseForge fund the revenue generated from mods to the Israeli Defense Forces
+98,2025-04-08 15:03:23,Daimler,company with R&D in Tel Aviv
+99,2025-04-08 15:03:23,Delilah,is an Israeli dates brand
+100,2025-04-08 15:03:23,Dr Pepper,owned by Reimann family
+101,2025-04-08 15:03:23,Del Valle,owned by Coca-Cola
+102,2025-04-08 15:03:23,Daim Bar,owned by Mondelez
+103,2025-04-08 15:03:23,Dasani,is a brand of Coca-Cola
+104,2025-04-08 15:03:23,Decathlon,company operates stores in Israel
+105,2025-04-08 15:03:23,Doritos,is a brand of PepsiCo
+106,2025-04-08 15:03:23,Daz,product of Procter & Gamble
+107,2025-04-08 15:03:23,Dior,owner of Dior's parent company LVMH
+108,2025-04-08 15:03:23,Dell,founder of Dell is a member of the Friends of the IDF
+109,2025-04-08 15:03:23,Deutsche Telekom,invests in Israeli software company Teridion
+110,2025-04-08 15:03:23,DHL Group,company with operations in Israel
+111,2025-04-08 15:03:23,Dettol,is a brand of Reckitt Benckiser (RB)
+112,2025-04-08 15:03:23,Disney,pledging $2m and further initiatives to support Israel
+113,2025-04-08 15:03:23,DLA Piper,provides lawyers firm to Israel
+114,2025-04-08 15:03:23,Domestos,owned by Unilever
+115,2025-04-08 15:03:23,Domino's,donating food to Israeli soldiers
+116,2025-04-08 15:03:23,Downy,owned by Procter and Gamble
+117,2025-04-08 15:03:23,Dr. Fischer,headquartered in Israel
+118,2025-04-08 15:03:23,Doctor Or,headquartered in Israel
+119,2025-04-08 15:03:23,DKNY,Held an IOF Fundraiser in NYC
+120,2025-04-08 15:03:23,Dreyer's Grand Ice Cream,owned by Nestle
+121,2025-04-08 15:03:23,DeviantArt,based in Tel Aviv
+122,2025-04-08 15:03:23,Dairy Milk,owned by Cadbury
+123,2025-04-08 15:03:23,Eli Lilly,donated three ICUs to Israel
+124,2025-04-08 15:03:23,Elie Tahari,founder livs in Israel
+125,2025-04-08 15:03:23,Evian,owner of Evian Danone invests millions in Israel
+126,2025-04-08 15:03:23,Eucerin,owned by Beiersdorf group that support Israel
+127,2025-04-08 15:03:23,Ericsson,provide 5G to Israel
+128,2025-04-08 15:03:23,EPAM Systems,acquires Israel based startups
+129,2025-04-08 15:03:23,Estee Lauder,owners are the president of World Jewish Congress
+130,2025-04-08 15:03:23,Elbit Systems,electronics company headquartered in Israel
+131,2025-04-08 15:03:23,El Al Airlines,official Airline of Israel
+132,2025-04-08 15:03:23,Expedia,profiting from Israeli settlements
+133,2025-04-08 15:03:23,Elementor,an Israeli company
+134,2025-04-08 15:03:23,Facebook (Meta),has been censoring neutral content
+135,2025-04-08 15:03:23,Fairlife,owned by Coca-Cola
+136,2025-04-08 15:03:23,Fancy Medjoul,company with operations in Israel
+137,2025-04-08 15:03:23,Food to Live,sells Israeli dates
+138,2025-04-08 15:03:23,Fiverr,An Israeli company
+139,2025-04-08 15:03:23,FlixBus,CEO André Schwämmlein supported Israel on LinkedIn
+140,2025-04-08 15:03:23,Fred Joaillier (Fred Jewelry),owned by LVMH
+141,2025-04-08 15:03:23,Funyuns,owned by Pepsi co
+142,2025-04-08 15:03:23,Frito-Lay,owned by Pepsi co
+143,2025-04-08 15:03:23,Fuze,owned by Coca-Cola
+144,2025-04-08 15:03:23,Fox News,biased news reporting
+145,2025-04-08 15:03:23,Fritos,owned by Pepsi co
+146,2025-04-08 15:03:23,Fox Corp,parent company of Fox News
+147,2025-04-08 15:03:23,Foods Alive,sells Israeli organic black cumin seed oil
+148,2025-04-08 15:03:23,Ferrero Rocher,has based its head quarters for Asia in Holon Israel
+149,2025-04-08 15:03:23,Fanta,owned by the Coca Cola
+150,2025-04-08 15:03:23,First International Bank of Israel,headquartered in Israel
+151,2025-04-08 15:03:23,Gatorade,owned by PepsiCo with no direct ties to Israel
+152,2025-04-08 15:03:23,Gamida Cell,biopharmaceutical company headquartered in Israel
+153,2025-04-08 15:03:23,GE (General Electric),operations and partnerships in Israel
+154,2025-04-08 15:03:23,General Catalyst,provide support for the state of Israel and its tech community
+155,2025-04-08 15:03:23,General Motors,operations and partnerships in Israel
+156,2025-04-08 15:03:23,Gold Peak,owned by Coca-Cola with
+157,2025-04-08 15:03:23,Genesys,has an official in Israel
+158,2025-04-08 15:03:23,Grandma's Cookies,owned Frito-LayPepsi Co
+159,2025-04-08 15:03:23,Google,accused of giving data and proving support
+160,2025-04-08 15:03:23,GA-DE Cosmetics,cosmetics brand headquartered in Israel
+161,2025-04-08 15:03:23,Garnier,owned by L'Oreal
+162,2025-04-08 15:03:23,Galaxy Chocolate,a chocolate brand owned by Mars Inc
+163,2025-04-08 15:03:23,Guerlain,owned by LVMH
+164,2025-04-08 15:03:23,Givenchy,owned by LVMH
+165,2025-04-08 15:03:23,H&M,H&M is encouraging and legitimizing military
+166,2025-04-08 15:03:23,Hadiklaim,date growers cooperative headquartered in Israel
+167,2025-04-08 15:03:23,Huggies,founding company Kimberly-Clark received the Jubilee Award by the Israeli Prime Minister Netanyahu
+168,2025-04-08 15:03:23,HSBC,invests in companies selling arms and military equipment
+169,2025-04-08 15:03:23,Head & Shoulders,owned by Procter & Gamble
+170,2025-04-08 15:03:23,Hewlett Packard (HP),contracted by the Israel Police to provide Data Center Care services
+171,2025-04-08 15:03:23,Healthy Heights,owned by Jewish
+172,2025-04-08 15:03:23,Hulu,broadcasts pro-Israeli advertisements
+173,2025-04-08 15:03:23,Hyundai,heavy machinery has been used in the demolition in Jerusalem
+174,2025-04-08 15:03:23,Henkel,investing in Israeli technology by backing Feelit
+175,2025-04-08 15:03:23,Hostess,owned by Bimbo
+176,2025-04-08 15:03:23,Harel Insurance Investment & Financial Services,insurance company headquartered in Israel
+177,2025-04-08 15:03:23,Hotstar,streaming service owned by Disney
+178,2025-04-08 15:03:23,IBM,involvements in Israeli security and military apparatus
+179,2025-04-08 15:03:23,IKEA,donated $1.1 million to Israel
+180,2025-04-08 15:03:23,Innocent Smoothies,owned by Coca-Cola company
+181,2025-04-08 15:03:23,Insight Partners,venture capital firm with investments in Israeli tech companies
+182,2025-04-08 15:03:23,Inditex Group,parent company of brands like Zara with stores and operations in Israel
+183,2025-04-08 15:03:23,IT Cosmetics,owned by L'Oréal
+184,2025-04-08 15:03:23,Intel,significant investments in Israel totaling more than $50 billion
+185,2025-04-08 15:03:23,Irish Spring,owned by Colgate-Palmolive
+186,2025-04-08 15:03:23,Instagram,platform under Meta
+187,2025-04-08 15:03:23,ICL Group,multinational manufacturing company headquartered in Israel
+188,2025-04-08 15:03:23,Jazwares,donated to Magen David Adom in Israel
+189,2025-04-08 15:03:23,Jefferies,leading advisor to Israeli companies
+190,2025-04-08 15:03:23,Jaguar,partners with TCS to open Innovation Programme in Israel
+191,2025-04-08 15:03:23,J Street,lobbying for Israel
+192,2025-04-08 15:03:23,Johnson & Johnson,acquires Israeli start-ups for billions of dollars
+193,2025-04-08 15:03:23,Just Beauty,owners are funding
+194,2025-04-08 15:03:23,Kenon Holdings,a power generation company with facilities in Israel
+195,2025-04-08 15:03:23,Kate Spade,luxury fashion brand owned by Tapestry Inc
+196,2025-04-08 15:03:23,Kinder Bueno,owned by Ferrero Group
+197,2025-04-08 15:03:23,Karsten Farms,has severed its relations with the Israeli cooperative Hadiklaim
+198,2025-04-08 15:03:23,Kimberly Clark,received the Jubilee Award by the Israeli Prime Minister Netanyahu
+199,2025-04-08 15:03:23,Kleenex,owned by Kimberly Clark
+200,2025-04-08 15:03:23,King Solomon,is an israeli brand
+201,2025-04-08 15:03:23,Kirks,owned by Coca-Cola
+202,2025-04-08 15:03:23,Kinley Water,a brand of bottled water owned by Coca-Cola
+203,2025-04-08 15:03:23,KKR,made three investments in Israeli tech companies
+204,2025-04-08 15:03:23,KFC,founding company Yum Brands is an investor in Israeli star-ups
+205,2025-04-08 15:03:23,Kenneth Cole,supports Israel in new TV commercial
+206,2025-04-08 15:03:23,KKW Cosmetics,owned by Kim Kardashian
+207,2025-04-08 15:03:23,Kurkure,owned by PepsiCo
+208,2025-04-08 15:03:23,Keebler,owned by Kellogg's
+209,2025-04-08 15:03:23,Kitkat,owned by Nestle
+210,2025-04-08 15:03:23,Kerastase,owned by L'Oréal
+211,2025-04-08 15:03:23,Kenzo,owned by LVMH Bernard Arnault
+212,2025-04-08 15:03:23,Kellogg's,has provided with $3.8 billion in annual military aid since 2016
+213,2025-04-08 15:03:23,Kolynos,owned by Colgate-Palmolive
+214,2025-04-08 15:03:23,Kaufland,owner to invest millions in Israeli technologies
+215,2025-04-08 15:03:23,Kevita,owned by PepsiCo
+216,2025-04-08 15:03:23,Knorr,owned by Unilever
+217,2025-04-08 15:03:23,Krispy Kreme,owners of Krispy Kreme invested and donated through their Alfred Landecker Foundation
+218,2025-04-08 15:03:23,Lidl,owner is a huge investor in israeli tech companies
+219,2025-04-08 15:03:23,Limca,owned Coca-Cola
+220,2025-04-08 15:03:23,Loblaws,are major sponsors of the Walk with Israel organization
+221,2025-04-08 15:03:23,LVMH,owned by Bernard Arnault
+222,2025-04-08 15:03:23,Louis Vuitton,owned by LVMH
+223,2025-04-08 15:03:23,Luxottica (EssilorLuxottica),buys Israeli hearing tech startup Nuance
+224,2025-04-08 15:03:23,Lupilu,owned by Lidl
+225,2025-04-08 15:03:23,Life Water,owned by PepsiCo
+226,2025-04-08 15:03:23,Lux,owned by Unilever
+227,2025-04-08 15:03:23,Leonardo Hotels,part of the Fattal Hotels Group an Israeli hospitality company
+228,2025-04-08 15:03:23,Lacoste,sponsorship of the Israel Football Association [IFA]
+229,2025-04-08 15:03:23,Land Rover,partners with TCS to open Innovation Programme in Israel
+230,2025-04-08 15:03:23,L'Oréal,initiated operations in Israel in the mid-1990s
+231,2025-04-08 15:03:23,Levissima,owned by Nestle
+232,2025-04-08 15:03:23,La Roche-Posay,a skincare brand owned by L'Oréal
+233,2025-04-08 15:03:23,Lipton,owned by Unilever
+234,2025-04-08 15:03:23,Major League Baseball,allowed to play Israeli national anthem in the games
+235,2025-04-08 15:03:23,Mars,investing in the food tech startup through venture capital partner JVC
+236,2025-04-08 15:03:23,Marsh McLennan,acquisition of Re Solutions reinsurance broker in Israel
+237,2025-04-08 15:03:23,M&M,owned by Mars
+238,2025-04-08 15:03:23,Maison Francis Kurkdjian,owned by LVMH
+239,2025-04-08 15:03:23,Mattel,CEO of the company is Ynon Kreiz an Israeli-American
+240,2025-04-08 15:03:23,Minute Maid,owned by Coca-Cola
+241,2025-04-08 15:03:23,Monster,owned by Coca-Cola
+242,2025-04-08 15:03:23,Mehadrin,Israeli-based agriculture company exporting produce globally
+243,2025-04-08 15:03:23,Maaza,owned by Coca-Cola
+244,2025-04-08 15:03:23,Monki,owned by H&M Group
+245,2025-04-08 15:03:23,Morrisons,source produce from the state of Israel
+246,2025-04-08 15:03:23,Mellow Yellow,owned by PepsiCo
+247,2025-04-08 15:03:23,Mountain Dew,owned by PepsiCo
+248,2025-04-08 15:03:23,Moroccan Oil,manufactured in Isreal
+249,2025-04-08 15:03:23,Migdal Insurance,Israeli insurance and financial services company
+250,2025-04-08 15:03:23,Mercedes,opened a tech hub in Tel Aviv
+251,2025-04-08 15:03:23,Marc Jacobs,owned by LVMH
+252,2025-04-08 15:03:23,Mirinda,owned by PepsiCo
+253,2025-04-08 15:03:23,McDermott Will & Emery,helps investors invest in Israeli companies
+254,2025-04-08 15:03:23,McDonald's,donated to meals to Israeli army
+255,2025-04-08 15:03:23,Maccas,McDonald's known as Maccas in some regions
+256,2025-04-08 15:03:23,Motorola,IDF uses Motorola as a main supplier for its communication equipment
+257,2025-04-08 15:03:23,Michaels,CEO of the company supports Israel
+258,2025-04-08 15:03:23,Minis,owned by Nestle
+259,2025-04-08 15:03:23,Mizrahi Tefahot Bank,largest banks in Israel
+260,2025-04-08 15:03:23,MoroccanOil,manufectures in Israel
+261,2025-04-08 15:03:23,Michael Kors,owned by Capri Holdings which has business operations in Israel
+262,2025-04-08 15:03:23,Milkybar,owned by Nestlé
+263,2025-04-08 15:03:23,Maybelline,owned by L'Oréal
+264,2025-04-08 15:03:23,Mount Franklin,owned by Coca-Cola
+265,2025-04-08 15:03:23,Meta,runs Facebook and Instagram
+266,2025-04-08 15:03:23,Monday.com,headquartered in Tel Aviv Israel
+267,2025-04-08 15:03:23,Microsoft,collaborates with Israeli tech companies
+268,2025-04-08 15:03:23,Munchies,owned by Frito-Lay a part of PepsiCo
+269,2025-04-08 15:03:23,Morgan Lewis,published a letter to openly support Israel
+270,2025-04-08 15:03:23,Moroccanoil,founded by Israeli co-founders
+271,2025-04-08 15:03:23,Maggi,owned by Nestle
+272,2025-04-08 15:03:23,Milka,owned by Mondelez
+273,2025-04-08 15:03:23,Mommy Care,owner Joshua Shuki Shaked is an Israeli
+274,2025-04-08 15:03:23,MBC TV (Group),published a report in favor of Israel
+275,2025-04-08 15:03:23,MyHeritage,founded by an Israeli entrepreneur Gilad Japhet
+276,2025-04-08 15:03:23,Next,company's CEO provides grants for science initiatives and cultural projects in Israel
+277,2025-04-08 15:03:23,Nabisco,owned by Mondelez
+278,2025-04-08 15:03:23,NameCheap,hosts israeli propaganda websites
+279,2025-04-08 15:03:23,Nutter Butter,owned by Mondelez
+280,2025-04-08 15:03:23,No Frills,is a brand of Loblaw Companies Limited that sponsors of the Walk with Israel organization
+281,2025-04-08 15:03:23,National Geographic,owned by Disney
+282,2025-04-08 15:03:23,New Balance,has been a sponsor of the Jerusalem Marathon
+283,2025-04-08 15:03:23,Namshi,owned by Noon
+284,2025-04-08 15:03:23,Nutella,owned by Ferrero
+285,2025-04-08 15:03:23,Newtons,owned by Mondelez
+286,2025-04-08 15:03:23,NVIDIA,is building a supercomputer for Israel and partnerships with Israeli tech companies
+287,2025-04-08 15:03:23,Netflix,claim of being truly Israeli on their website
+288,2025-04-08 15:03:23,Nescafe,owned by Nestlé
+289,2025-04-08 15:03:23,Nestlé,owns 53.8% share of leading Israeli food manufacturer Osem
+290,2025-04-08 15:03:23,Nesquik,owned by Nestlé
+291,2025-04-08 15:03:23,Noon.com,UAE-based founder Mohamed Alabbar made donations to Israeli Charity Project
+292,2025-04-08 15:03:23,Nike,have sponsorship deals with several Israeli athletes and teams
+293,2025-04-08 15:03:23,Neutrogena,owned by Loreal
+294,2025-04-08 15:03:23,Nussbeisser,owned by Mondelez
+295,2025-04-08 15:03:23,Oreo,owned by Mondelez
+296,2025-04-08 15:03:23,Overwolf,Israeli tech company specializing in gaming tools and software
+297,2025-04-08 15:03:23,Oral-B,owned by Procter & Gamble
+298,2025-04-08 15:03:23,Old Spice,owned by Procter & Gamble
+299,2025-04-08 15:03:23,Oysho,owned by Inditex
+300,2025-04-08 15:03:23,Oxygeneo,made in Israel
+301,2025-04-08 15:03:23,Oracle,donated money to israeli employees
+302,2025-04-08 15:03:23,Ocean Spray,is a brand of PepsiCo
+303,2025-04-08 15:03:23,Oakley,owned by EssilorLuxottica that invests in israeli start ups
+304,2025-04-08 15:03:23,OROWHEAT,owned by Bimbo
+305,2025-04-08 15:03:23,P&G (Procter & Gamble),opened an R&D center in Tel Aviv and investing $2 billion annually
+306,2025-04-08 15:03:23,Pampers,owned by Procter & Gamble which has business operations in Israel
+307,2025-04-08 15:03:23,Purex,owned by Henkel is investing in Israeli technology by backing Feelit
+308,2025-04-08 15:03:23,Pears,owned by Unilever
+309,2025-04-08 15:03:23,Pull & Bear,owned by Inditex
+310,2025-04-08 15:03:23,Paradise Dates,owned by Tnuvot Field Israels 3rd largest exporter of Medjool dates
+311,2025-04-08 15:03:23,Pepsi,has a strong and long history of business with Israeli based SodaStream company
+312,2025-04-08 15:03:23,Persil,owned by Unilever
+313,2025-04-08 15:03:23,Premium Medjoul,dates sourced and often exported from Israel
+314,2025-04-08 15:03:23,Popeyes,is the sister company of Burger King
+315,2025-04-08 15:03:23,Philips,host major facilities like Philips Medical Systems Technologies Ltd. in Haifa originally established as the Israeli company Elscint
+316,2025-04-08 15:03:23,Paramount,issued a statement on Twitter that they stand with Israel
+317,2025-04-08 15:03:23,Philadelphia Cream Cheese,owned by Mondelez
+318,2025-04-08 15:03:23,Pizza Hut,owned by Yum! Brands is actively investing in Israeli startups
+319,2025-04-08 15:03:23,Protex,owned by Colgate-Palmolive
+320,2025-04-08 15:03:23,Powerade,owned by Coca-Cola
+321,2025-04-08 15:03:23,Purina,owned by Nestle
+322,2025-04-08 15:03:23,Phoenix Holdings,israeli insurance and financial services company
+323,2025-04-08 15:03:23,Propel,owned by PepsiCo
+324,2025-04-08 15:03:23,Pepsodent,owned by Unilever
+325,2025-04-08 15:03:23,Pond's,owned by Unilever
+326,2025-04-08 15:03:23,Pure Leaf Green Tea,joint venture between PepsiCo and Unilever
+327,2025-04-08 15:03:23,Prada,is a brand of L'Oreal
+328,2025-04-08 15:03:23,Pringles,owned by Kellogg's
+329,2025-04-08 15:03:23,Payoneer,Israeli-owned financial services company
+330,2025-04-08 15:03:23,PureGym,CEO has made public statements to support Israel
+331,2025-04-08 15:03:23,Palladium,provides official shoes for Israeli army
+332,2025-04-08 15:03:23,Palmolive,owned by Colgate-Palmolive
+333,2025-04-08 15:03:23,Purelife,owned by Nestlé
+334,2025-04-08 15:03:23,Pureology,part of L'Oréal
+335,2025-04-08 15:03:23,Perk,owned by Cadbury
+336,2025-04-08 15:03:23,PUMA,sponsors Israeli athletes and teams
+337,2025-04-08 15:03:23,Quaker Oats,is a brand of PepsiCo
+338,2025-04-08 15:03:23,Qualcomm,invests millions of dollars to israeli tech start ups
+339,2025-04-08 15:03:23,Roladin,bakery chain based in Israel
+340,2025-04-08 15:03:23,Ruffles,owned by PepsiCo
+341,2025-04-08 15:03:23,Ratiopharm,owned by Teva
+342,2025-04-08 15:03:23,Range Rover,owned by Jaguar Land Rover partners with TCS to launch the Open Innovation Program in Israel
+343,2025-04-08 15:03:23,Rove Hotels,founder Mohamed Ali Alabbar donates to israel
+344,2025-04-08 15:03:23,Ray-Ban,owned by EssilorLuxottica that invests in israeli start ups
+345,2025-04-08 15:03:23,Reebok,sponsors Israeli team
+346,2025-04-08 15:03:23,Revlon,owner Ronald Perelman is a trustee of The Simon Wiesenthal Center
+347,2025-04-08 15:03:23,Ralph Lauren,is a brand of L'Oreal
+348,2025-04-08 15:03:23,Ritz,owned by Mondelez
+349,2025-04-08 15:03:23,Royal Canin,owned by Mars
+350,2025-04-08 15:03:23,Rapunzel Dates,dates brand owned by Israel
+351,2025-04-08 15:03:23,Sanpellegrino,owned by Nestle
+352,2025-04-08 15:03:23,Sabra Hummus,joint venture between PepsiCo and the Strauss Group an Israeli company
+353,2025-04-08 15:03:23,SAP,donated 6500 israeli shekels to israeli employees after the war started
+354,2025-04-08 15:03:23,Simply,owned by Coca-Cola
+355,2025-04-08 15:03:23,Smart Water,owned by Coca-Cola
+356,2025-04-08 15:03:23,Sprite,owned by Coca-Cola
+357,2025-04-08 15:03:23,Spotify,founder Daniel Ek has expressed support for Israel
+358,2025-04-08 15:03:23,Stradivarius,brand owned by the Inditex Group has a presence in Israel
+359,2025-04-08 15:03:23,SodaStream,Israeli-based company
+360,2025-04-08 15:03:23,Swisse,sells made in israel products
+361,2025-04-08 15:03:23,Sensodyne,owned by GSK
+362,2025-04-08 15:03:23,Siemens,has significant business operations in energy and infrastructure in Israel
+363,2025-04-08 15:03:23,StreamElements,founded in Israel
+364,2025-04-08 15:03:23,Schweppes,owned by Coca-Cola
+365,2025-04-08 15:03:23,Sunsilk,owned by Unilever
+366,2025-04-08 15:03:23,Signal,owned by Unilever
+367,2025-04-08 15:03:23,Skittles,owned by Mars
+368,2025-04-08 15:03:23,Smart Food,owned by PepsiCo
+369,2025-04-08 15:03:23,SABON,Israeli-based company
+370,2025-04-08 15:03:23,SeboCalm,Israeli-based skincare company
+371,2025-04-08 15:03:23,SalesForce,donated $3 million to Israel
+372,2025-04-08 15:03:23,Skechers,president Michael S Greenberg supports Israel
+373,2025-04-08 15:03:23,SoBe,owned by PepsiCo
+374,2025-04-08 15:03:23,Schwarzkopf,owned by Henkel
+375,2025-04-08 15:03:23,Sunbites Crackers,owned by PepsiCo
+376,2025-04-08 15:03:23,Sunlight,owned by Unilever
+377,2025-04-08 15:03:23,Stanley Tools,made in Israel
+378,2025-04-08 15:03:23,Smarties,owned by Nestlé
+379,2025-04-08 15:03:23,SolarEdge,Israeli-based company
+380,2025-04-08 15:03:23,Sephora,owned by LVMH
+381,2025-04-08 15:03:23,Sam's Club,owned by Walmart
+382,2025-04-08 15:03:23,Shoppers Drug Mart,owned by Loblaw Companies which supports initiatives tied to Israel
+383,2025-04-08 15:03:23,Sanex,owned by Colgate-Palmolive
+384,2025-04-08 15:03:23,Sony,supports Israel even posted on Instagram in their favor
+385,2025-04-08 15:03:23,Superbus,israeli transportation company
+386,2025-04-08 15:03:23,Scotiabank,invested 500 million dollars into Elbit Systems Ltd which is an Israeli weapons manufacturer
+387,2025-04-08 15:03:23,Sour Patch Kids,owned by Mondelez
+388,2025-04-08 15:03:23,Starbucks,Howard Schultz Starbucks' largest private owner invested $1.7B in Israeli cybersecurity firm Wiz
+389,2025-04-08 15:03:23,Sadaf,israeli-owned brand
+390,2025-04-08 15:03:23,Sting,owned by PepsiCo
+391,2025-04-08 15:03:23,Shams,an israeli brand which sells dates
+392,2025-04-08 15:03:23,Sneakers,owned by Mars Inc.
+393,2025-04-08 15:03:23,Star Dates,israeli dates
+394,2025-04-08 15:03:23,Stride,owned by Mondelez
+395,2025-04-08 15:03:23,Sunglass Hut,owned by Luxottica which invests in israeli start-ups
+396,2025-04-08 15:03:23,Surf Excel,owned by Unilever
+397,2025-04-08 15:03:23,Stripe,CEO and co-founder Patrick Collison visits Israel
+398,2025-04-08 15:03:23,SaraLee,owned by Bimbo
+399,2025-04-08 15:03:23,Sun Maid,owned by Bimbo
+400,2025-04-08 15:03:23,Tang,owned by Mondelez
+401,2025-04-08 15:03:23,Tate's Bake Shop,owned by Mondelez
+402,2025-04-08 15:03:23,The Body Shop,is a brand of L'Oreal
+403,2025-04-08 15:03:23,TEVA,Israeli-based pharmaceutical company
+404,2025-04-08 15:03:23,Tesco,has been known to sell products sourced from Israel
+405,2025-04-08 15:03:23,Twitch,owned by Amazon
+406,2025-04-08 15:03:23,Thumbs Up,owned by Coca-Cola
+407,2025-04-08 15:03:23,Twitter X,has a research and development center in Israel and collaborates with Israeli tech companies
+408,2025-04-08 15:03:23,Teem,owned by PepsiCo
+409,2025-04-08 15:03:23,Tasali Chips,owned by PepsiCo
+410,2025-04-08 15:03:23,The Ordinary,owned by Estée Lauder
+411,2025-04-08 15:03:23,Tim Hortons,company of Burger King known to provide free food and drinks to IDF
+412,2025-04-08 15:03:23,Toblerone,owned by Mondelez International
+413,2025-04-08 15:03:23,Tostitos,owned by PepsiCo
+414,2025-04-08 15:03:23,Timberland,CEO Jeffrey Swartz went on a 'solidarity visit' to Israel
+415,2025-04-08 15:03:23,Topo Chico,owned by Coca-Cola
+416,2025-04-08 15:03:23,Tata,provides IT and cloud services to the Israeli military and supplies Land Rover vehicles to the Israeli military
+417,2025-04-08 15:03:23,Tesla,announced free use of all its Superchargers in Israel
+418,2025-04-08 15:03:23,Trader Joe's,sells products sourced from Israel
+419,2025-04-08 15:03:23,Tropicana,owned by PepsiCo
+420,2025-04-08 15:03:23,Tom Ford,owned by Estée Lauder
+421,2025-04-08 15:03:23,Thomas (BagelBiscuits),owned by Bimbo
+422,2025-04-08 15:03:23,Taco Bell,owned by Yum! Brands
+423,2025-04-08 15:03:23,Triscuit,owned by Mondelez
+424,2025-04-08 15:03:23,TUC,owned by Mondelez
+425,2025-04-08 15:03:23,Twix,owned by Mars
+426,2025-04-08 15:03:23,Tasali,owned by PepsiCo
+427,2025-04-08 15:03:23,Tag Heuer,owned by LVMH
+428,2025-04-08 15:03:23,Twisties,owned by Mondelez
+429,2025-04-08 15:03:23,Tropico,owned by CocaCola
+430,2025-04-08 15:03:23,Taffix,manufactured by an Israeli company (Nasus Pharma)
+431,2025-04-08 15:03:23,Trident,owned by Mondelez International
+432,2025-04-08 15:03:23,Tamara Barhi,dates sourced from Israel
+433,2025-04-08 15:03:23,Urban Decay,is a brand of L'Oreal
+434,2025-04-08 15:03:23,Under Armour,support of various Israeli sports teams and athletes
+435,2025-04-08 15:03:23,Urban Platter,sells Israeli Medjool Dates
+436,2025-04-08 15:03:23,Unilever,company with operations in Israel
+437,2025-04-08 15:03:23,Vitaminwater,owned by Coca-Cola
+438,2025-04-08 15:03:23,Volvo,supplied equipments to Israel
+439,2025-04-08 15:03:23,Vicks,owned by Procter and Gamble
+440,2025-04-08 15:03:23,Vanguard,investment in Israel
+441,2025-04-08 15:03:23,Victoria's Secret,owner Les Wexner is a supporter of Israel
+442,2025-04-08 15:03:23,Vaseline,is a brand of Unilever
+443,2025-04-08 15:03:23,Vogue International,owned by Johnsons & Johnsons
+444,2025-04-08 15:03:23,Volkswagen,president of the company supported Israel
+445,2025-04-08 15:03:23,Waitrose,has been known to sell products sourced from Israel
+446,2025-04-08 15:03:23,Walmart,pledged $1m to Israeli victims
+447,2025-04-08 15:03:23,Wheat Thins,owned by Mondelez
+448,2025-04-08 15:03:23,Walkers,is a brand of PepsiCo
+449,2025-04-08 15:03:23,Warner Chilcott,owned by TEVA pharma
+450,2025-04-08 15:03:23,Wells Fargo,was a part of $500 million loan deal into EBIT Systems Ltd an Israeli company
+451,2025-04-08 15:03:23,Wild Harvest Organic Tahini,produced in Israel
+452,2025-04-08 15:03:23,Winston & Strawn,provides legal services and partnerships in Israel
+453,2025-04-08 15:03:23,Wix,tech company headquartered in Tel Aviv
+454,2025-04-08 15:03:23,Wall's,owned by Unilever
+455,2025-04-08 15:03:23,Wissotzky Tea,Israeli tea company
+456,2025-04-08 15:03:23,Wheel Washing Powder,owned by Unilever
+457,2025-04-08 15:03:23,Wrigley's Company,invested in Israeli food tech startups through JVC
+458,2025-04-08 15:03:23,Whatsapp,owned by Meta
+459,2025-04-08 15:03:23,Yves Saint LaurentYSL,a brand of L'Oreal
+460,2025-04-08 15:03:23,Yvel,luxury jewelry brand based in Israel
+461,2025-04-08 15:03:23,Yum Foods,is an investor in Israeli start ups
+462,2025-04-08 15:03:23,Zara,clothing mocking war by ad campaign
+463,2025-04-08 15:03:23,Zim Shipping,Israeli shipping company
+464,2025-04-08 15:03:23,Ziff Davis,partnered with BrandStorm Media to launch IGN Israel
+465,2025-04-08 15:03:23,Zhou Nutrition,sources its black seed oil directly from Israel
+466,2025-04-08 15:03:23,Zus Coffee,collaborated with Adidas for an event
