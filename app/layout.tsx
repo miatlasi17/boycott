@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: 'Boycott – Raise Your Voice for Palestine by What You Don’t Buy',
   description: 'Discover and support ethical alternatives. Boycott lets you take a stand by the products you avoid.',
   icons: {
-    icon: '/favicon.ico', // or '/favicon.png'
+    icon: '/favicon-final.ico', // or '/favicon.png'
   },
   keywords: ['boycott', 'ethical shopping', 'boycott items', 'ethical consumerism', 'boycott list'],
   metadataBase: new URL('https://boycottitems.com'),
