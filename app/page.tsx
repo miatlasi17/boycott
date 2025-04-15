@@ -15,20 +15,26 @@ export default function Home() {
 
       // Prepare keywords
 
+      // const keywords = input
+      //   .toLowerCase()
+      //   .replace(/[^a-z0-9\s]/gi, '')  // remove special chars
+      //   .split(/\s+/)
+      //   .filter(Boolean);
+
+      // keywords.push(input.replace(/\s+/g, '')); // add 'cocacola'
+
+      // const orConditions = keywords.map(word => `name.ilike.%${word}%`).join(',');
+
       const keywords = input
-        .toLowerCase()
-        .replace(/[^a-z0-9\s]/gi, '')  // remove special chars
-        .split(/\s+/)
-        .filter(Boolean);
+        .replace(/-/g, ' ')
+        .replace(/\b\w/g, char => char.toUpperCase())
+        .toLowerCase();
 
-      keywords.push(input.replace(/\s+/g, '')); // add 'cocacola'
-
-      const orConditions = keywords.map(word => `name.ilike.%${word}%`).join(',');
 
       const { data, error } = await supabase
         .from('boycott_items')
         .select('name, reason')
-        .or(orConditions);
+        .ilike('name', `%${keywords}%`);
 
       console.log('Data:', data);
 
