@@ -13,10 +13,22 @@ export default function Home() {
     if (input.length > 1 && input.length < 20) {
       setLoading(true); // Start loading
 
+      // Prepare keywords
+
+      const keywords = input
+        .toLowerCase()
+        .replace(/[^a-z0-9\s]/gi, '')  // remove special chars
+        .split(/\s+/)
+        .filter(Boolean);
+
+      keywords.push(input.replace(/\s+/g, '')); // add 'cocacola'
+
+      const orConditions = keywords.map(word => `name.ilike.%${word}%`).join(',');
+
       const { data, error } = await supabase
         .from('boycott_items')
         .select('name, reason')
-        .ilike('name', `%${input}%`);
+        .or(orConditions);
 
       console.log('Data:', data);
 
@@ -60,6 +72,11 @@ export default function Home() {
             placeholder="Enter item name"
             value={input}
             onChange={(e) => setInput(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter') {
+                handleSearch();
+              }
+            }}
           />
           <button
             onClick={handleSearch}
